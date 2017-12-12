@@ -1,0 +1,7 @@
+[package]
+name = "nyuko"
+version = "0.1.0"
+authors = ["ukyo <ukyo.web@gmail.com>"]
+
+[dependencies]
+clap = "~2.29"
